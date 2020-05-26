@@ -68,7 +68,7 @@
 			<div class="panel-body">
 
 				<form:form method="POST" action="saveCard"
-					modelAttribute="cardForm">
+					modelAttribute="card">
 					<form:hidden path="cardId" class="form-control" />
 					<div class="row">
 						<div class="form-group col-sm-offset-1 col-sm-4 text-right fontstyle">
